@@ -66,7 +66,7 @@ function Projects() {
               imgPath={leaveApp}
               isBlog={false}
               title="Front End of Leave App"
-              description="ReactJS project- Blog website which let employee of a particular company request to leaves and the management have to approve or decline it."
+              description="ReactJS project- Website which let employee of a particular company request to leaves and the management have to approve or decline it."
               ghLink="https://github.com/rrahulppanchal"
               demoLink="https://gleaming-crepe-0dd8ab.netlify.app/"
             />
